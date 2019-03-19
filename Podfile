@@ -6,6 +6,6 @@ target 'pixel-city' do
   use_frameworks!
 
   # Pods for pixel-city
-  pod 'Alamofire', '~> 4.4'
-  pod 'AlamofireImage', '~> 3.1'
+  pod 'Alamofire', '~> 5.0.0-beta.3'
+  pod 'AlamofireImage', '~> 3.5'
 end
